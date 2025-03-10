@@ -36,6 +36,6 @@ class Book {
         Book book = new Book(title, author, price);
         book.displayDetails();
 
-        scanner.close();
+
     }
 }
